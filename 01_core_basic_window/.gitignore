@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/01_core_basic_window
+01_core_basic_window.so
+01_core_basic_window.dylib
+01_core_basic_window.dll
+01_core_basic_window.a
+01_core_basic_window.lib
+01_core_basic_window-test-*
+*.exe
+*.o
+*.obj
+*.lst
