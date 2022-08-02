@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"XXIV"
+	],
+	"copyright": "Copyright © 2022, XXIV",
+	"dependencies": {
+		"raylib-d": "~>4.0.1"
+	},
+	"libs": ["raylib"],
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "05_core_input_gamepad"
+}
