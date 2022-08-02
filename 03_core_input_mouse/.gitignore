@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/03_core_input_mouse
+03_core_input_mouse.so
+03_core_input_mouse.dylib
+03_core_input_mouse.dll
+03_core_input_mouse.a
+03_core_input_mouse.lib
+03_core_input_mouse-test-*
+*.exe
+*.o
+*.obj
+*.lst
