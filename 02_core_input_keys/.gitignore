@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/02_core_input_keys
+02_core_input_keys.so
+02_core_input_keys.dylib
+02_core_input_keys.dll
+02_core_input_keys.a
+02_core_input_keys.lib
+02_core_input_keys-test-*
+*.exe
+*.o
+*.obj
+*.lst
