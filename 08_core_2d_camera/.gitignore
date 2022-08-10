@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/08_core_2d_camera
+08_core_2d_camera.so
+08_core_2d_camera.dylib
+08_core_2d_camera.dll
+08_core_2d_camera.a
+08_core_2d_camera.lib
+08_core_2d_camera-test-*
+*.exe
+*.o
+*.obj
+*.lst
