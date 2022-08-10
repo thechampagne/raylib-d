@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/07_core_input_gestures
+07_core_input_gestures.so
+07_core_input_gestures.dylib
+07_core_input_gestures.dll
+07_core_input_gestures.a
+07_core_input_gestures.lib
+07_core_input_gestures-test-*
+*.exe
+*.o
+*.obj
+*.lst
