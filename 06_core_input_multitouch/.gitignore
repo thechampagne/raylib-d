@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/06_core_input_multitouch
+06_core_input_multitouch.so
+06_core_input_multitouch.dylib
+06_core_input_multitouch.dll
+06_core_input_multitouch.a
+06_core_input_multitouch.lib
+06_core_input_multitouch-test-*
+*.exe
+*.o
+*.obj
+*.lst
