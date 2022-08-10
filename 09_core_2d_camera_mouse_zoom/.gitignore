@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/09_core_2d_camera_mouse_zoom
+09_core_2d_camera_mouse_zoom.so
+09_core_2d_camera_mouse_zoom.dylib
+09_core_2d_camera_mouse_zoom.dll
+09_core_2d_camera_mouse_zoom.a
+09_core_2d_camera_mouse_zoom.lib
+09_core_2d_camera_mouse_zoom-test-*
+*.exe
+*.o
+*.obj
+*.lst
